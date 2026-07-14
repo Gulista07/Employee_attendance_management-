@@ -1,3 +1,3 @@
 # Employee Attendance Management System
 
-A MERN stack web application for employee attendance, authentication, and management.
+A Full stack web application for employee attendance, authentication, and management.
