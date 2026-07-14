@@ -1,1 +1,3 @@
-# Employee_attendance_management-
+# Employee Attendance Management System
+
+A MERN stack application to manage employee attendance and records.
